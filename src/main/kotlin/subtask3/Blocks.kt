@@ -3,7 +3,6 @@ package subtask3
 import java.time.LocalDate
 import kotlin.reflect.KClass
 
-
 class Blocks {
 
     // TODO: Complete the following function
